@@ -4,10 +4,11 @@ Welcome to the **Turbin3 Builder Cohort** repository!
 This serves as a centralized hub for managing and sharing class assignments, capstone project, and resources related to the program.
 I'll be documenting my whole POW throughout the program in here.
 <div style="display: flex;">
-    <p>follow me for tech and shitposting: </p> 
-    <a href="https://twitter.com/ifeelsam" target="_blank" style="padding-left: 10px">
+    <p>follow me for tech and shitposting: 
+    <a href="https://x.com/chaitanya1704" target="_blank" style="padding-left: 10px">
       <img src="https://cdn.edaquest.com/twitter-icon.svg" alt="Twitter" width="28" height="28">
     </a>
+    </p> 
 </div>
 
 ---
