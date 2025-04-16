@@ -1,0 +1,6 @@
+[submodule "Turbin3-Pre-requisite-ts"]
+	path = Turbin3-Pre-requisite-ts
+	url = https://github.com/chaitanyaBytes/Turbin3-Prereq-ts.git
+[submodule "Turbin3-Pre-requisite-rs"]
+	path = Turbin3-Pre-requisite-rs
+	url = https://github.com/chaitanyaBytes/Turbin3-Prereq-rs.git
