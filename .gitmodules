@@ -4,3 +4,6 @@
 [submodule "Turbin3-Pre-requisite-rs"]
 	path = Turbin3-Pre-requisite-rs
 	url = https://github.com/chaitanyaBytes/Turbin3-Prereq-rs.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/chaitanyaBytes/Solana-Starter.git
